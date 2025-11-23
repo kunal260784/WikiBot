@@ -4378,7 +4378,10 @@ dependencies = [
     { name = "fastembed" },
     { name = "ipykernel" },
     { name = "jq" },
+<<<<<<< HEAD
     { name = "jsonpatch" },
+=======
+>>>>>>> 17627a17c4bf6e122db674b1cb6842f51dbd2469
     { name = "langchain" },
     { name = "langchain-community" },
     { name = "langchain-experimental" },
@@ -4413,7 +4416,10 @@ requires-dist = [
     { name = "fastembed", specifier = ">=0.7.3" },
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "jq", specifier = ">=1.10.0" },
+<<<<<<< HEAD
     { name = "jsonpatch", specifier = ">=1.33" },
+=======
+>>>>>>> 17627a17c4bf6e122db674b1cb6842f51dbd2469
     { name = "langchain", specifier = ">=1.0.8" },
     { name = "langchain-community", specifier = ">=0.4.1" },
     { name = "langchain-experimental", specifier = ">=0.4.0" },

@@ -12,7 +12,10 @@ dependencies = [
     "fastembed>=0.7.3",
     "ipykernel>=7.1.0",
     "jq>=1.10.0",
+<<<<<<< HEAD
     "jsonpatch>=1.33",
+=======
+>>>>>>> 17627a17c4bf6e122db674b1cb6842f51dbd2469
     "langchain>=1.0.8",
     "langchain-community>=0.4.1",
     "langchain-experimental>=0.4.0",
